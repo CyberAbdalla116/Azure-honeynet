@@ -46,12 +46,13 @@ The following table shows the metrics we measured in our insecure environment fo
 | Start Time 2025-03-06 13:53:48 
 | Stop Time 2025-03-07 14:07:13
 
-Metric	Count
-SecurityEvent	12,332
-Syslog	10,783
-SecurityAlert	50
-SecurityIncident	51
-AzureNetworkAnalytics_CL	18,819
+| **Metric**                    | **Count**  |
+|-------------------------------|------------|
+| **SecurityEvent**              | 12,332     |
+| **Syslog**                     | 10,783     |
+| **SecurityAlert**              | 50         |
+| **SecurityIncident**           | 51         |
+| **AzureNetworkAnalytics_CL**   | 18,819     |
 
 ### Attack Maps After Hardening / Security Controls
 
@@ -66,12 +67,14 @@ The following table shows the metrics we measured in our environment for another
 | Start Time 2025-03-07 18:50:28 
 | Stop Time 2025-03-08 19:12:32
 
-Metric	Count
-SecurityEvent	1093
-Syslog	6
-SecurityAlert	0
-SecurityIncident	0
-AzureNetworkAnalytics_CL	0
+| **Metric**                    | **Count**  |
+|-------------------------------|------------|
+| **SecurityEvent**              | 1,093      |
+| **Syslog**                     | 6          |
+| **SecurityAlert**              | 0          |
+| **SecurityIncident**           | 0          |
+| **AzureNetworkAnalytics_CL**   | 0          |
+
 
 ![image](https://github.com/user-attachments/assets/5bc23560-f33f-4a3c-96cc-b8a643c17eaf)
 
